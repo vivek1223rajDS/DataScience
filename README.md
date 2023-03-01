@@ -1,2 +1,2 @@
 # DataScience
-This repo is learning the data science
+This repo is for learning data science
